@@ -1,4 +1,5 @@
 
+// Comentário da função do desenvolvimento
 function perimetroRetangulo(base, altura) {
     return 2*(base + altura)
 }
