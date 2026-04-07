@@ -1,3 +1,5 @@
+// Calculo da Area do Trapezio
+
 let b1 = 10;
 let b2 = 6;
 let h = 5;
