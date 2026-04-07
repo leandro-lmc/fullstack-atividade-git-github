@@ -4,3 +4,5 @@ function perimetro(lado){
 }
 
 console.log(perimetro(10));
+
+//Club de Regatas Vasco da Gama
