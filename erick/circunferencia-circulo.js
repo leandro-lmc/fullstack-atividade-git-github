@@ -6,3 +6,5 @@ function circunferenciaCirculo(raio) {
 }
 
 console.log(circunferenciaCirculo(5));
+
+//saida circunferência do circulo com raio 5: 31.41592653589793
